@@ -7,6 +7,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class ClienteTestUnitaria {
 
+    // comentarios en clase test
+
     private Cliente cliente;
 
     @BeforeEach
