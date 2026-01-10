@@ -2,6 +2,8 @@ package com.distribuida.model;
 
 import jakarta.persistence.*;
 
+
+
 @Entity
 @Table(name = "cliente")
 public class Cliente {
