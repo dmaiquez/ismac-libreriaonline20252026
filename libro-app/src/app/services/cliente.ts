@@ -7,6 +7,9 @@ import { Cliente } from '../models/cliente.model';
   providedIn: 'root',
 })
 export class ClienteService {
+
+      // comentarios para git hub desde front end 3
+      // comentarios para git hub desde front end 3
   
   private baseURL= "http://localhost:8080/api/clientes";
 
