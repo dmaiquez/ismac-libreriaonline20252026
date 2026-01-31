@@ -11,6 +11,7 @@ public class WebConfig {
 
     // comentarios para git hub
     // comentarios para git hub 2
+    // comentarios para git hub 3
     @Bean
     public WebMvcConfigurer corsConfigurer(){
         return new WebMvcConfigurer() {
